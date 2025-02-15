@@ -18,7 +18,7 @@
 - npm install <br>
 - npm install <a href="https://www.npmjs.com/package/bcrypt"> Bcrypt </a> <br>
 - npm install <a href="https://www.npmjs.com/package/body-parser"> Body Parser </a> <br>
-- npm install <a href="https://www.npmjs.com/package/dotenv"> <br>
+- npm install <a href="https://www.npmjs.com/package/dotenv"> DotEnv </a> <br>
 - npm install <a href="https://expressjs.com/en/starter/installing.html"> Express </a> <br>
 - npm install <a href="https://ejs.co/"> EJS </a> <br>
 - npm install <a href="https://www.npmjs.com/package/express-session"> Express Session </a> <br>
