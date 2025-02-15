@@ -11,3 +11,19 @@
 <h3>Node Installation</h3>
  
 - Download and install <a href="https://nodejs.org/en/download"> Node.js </a> <br>
+
+<hr>
+
+<h3>Project Folder Directory (Terminal)</h3>
+- npm install <br>
+- npm install <a href="https://www.npmjs.com/package/bcrypt"> Bcrypt </a> <br>
+- npm install <a href="https://www.npmjs.com/package/body-parser"> Body Parser </a> <br>
+- npm install <a href="https://www.npmjs.com/package/dotenv">
+- npm install <a href="https://expressjs.com/en/starter/installing.html"> Express </a> <br>
+- npm install <a href="https://ejs.co/"> EJS </a> <br>
+- npm install <a href="https://www.npmjs.com/package/express-session"> Express Session </a> <br>
+- npm install <a href="https://www.npmjs.com/package/passport"> Passport </a> <br>
+- npm install <a href="https://www.npmjs.com/package/passport-google-oauth20"> Passport Google Auth 2.0 </a> <br>
+- npm install <a href="https://www.npmjs.com/package/passport-local"> Passport Local </a> <br>
+- npm install <a href="https://www.npmjs.com/package/pg" >PG</a> <br>
+- node index.js <br>
