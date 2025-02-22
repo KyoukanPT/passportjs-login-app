@@ -34,7 +34,11 @@
 - Download <a href="https://www.pgadmin.org/download/"> PG Admin </a> <br>
 - Install PG Admin and create the following tables and attributes: <br><br>
 
-/*MISSING TABLE & ATRIBUTES*/
+<b>users</b><br>
+id <br>
+email <br>
+password <br>
+secrets <br>
 
 <hr>
 
@@ -44,3 +48,6 @@
 - https://www.w3schools.com/sql/
 
 <hr>
+
+<h3>How to use the App?</h3>
+<p> - After having everything set up and running the app with Node, go to <a href="http://localhost:3000/">Localhost</a>. </p>
