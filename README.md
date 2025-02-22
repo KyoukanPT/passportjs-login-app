@@ -51,3 +51,4 @@ secrets <br>
 
 <h3>How to use the App?</h3>
 <p> - After having everything set up and running the app with Node, go to <a href="http://localhost:3000/">Localhost</a>. </p>
+<p> - Now you can register, login, submit your secret and preview it. </p>
