@@ -1,4 +1,4 @@
-<h2>Secrets App V2</h2>
+<h2>PassportJS Login App</h2>
 
 <p>Instructions on how to download the source files and use the App: </p>
 
